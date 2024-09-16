@@ -1,3 +1,5 @@
+[![MasterHead](Graduate student Business analytics & AI.png)](https://github.com/SowmyaKothari)
+
 ## Hi there 👋 I'm Sowmya Kothari!
 
 I'm a **Master's student in Business Analytics** at **The University of Texas at Dallas**, passionate about leveraging data to drive business decisions. With a solid foundation in **Data Science and Business Analytics** from **IIIT-Bangalore** and experience in developing data-driven solutions, I am actively looking to launch my career as a **Business Analyst**.
