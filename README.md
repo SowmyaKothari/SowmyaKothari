@@ -1,4 +1,4 @@
-[![MasterHead](Graduate student Business analytics & AI.png)](https://github.com/SowmyaKothari)
+![Sowmya Kothari Banner](./Graduate%20student%20Business%20analytics%20&%20AI.png)
 
 ## Hi there 👋 I'm Sowmya Kothari!
 
@@ -27,13 +27,20 @@ I'm a **Master's student in Business Analytics** at **The University of Texas at
 - My experiences in **data-driven marketing**, **credit risk modeling**, and **customer acquisition strategies**
 - Balancing technical skills with **soft skills** like communication and teamwork in data projects
 
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/sowmya-kothari/)
-- Email: [sowmya.kothari@utdallas.edu](mailto:sowmya.kothari@utdallas.edu)
-
 ### ⚡ Fun fact:
 - When I'm not deep diving into data, you can find me working on planning events or running!
 
 ---
 
 🔍 Explore my **projects** and **repositories** to see how I apply my knowledge and skills in **business analytics**.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sowmya-kothari/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:sowmyakotaru18@icloud.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg" alt="Email" height="30" width="40" />
+  </a>
+</p>
+
